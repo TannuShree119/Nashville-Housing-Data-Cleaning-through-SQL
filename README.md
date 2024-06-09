@@ -33,6 +33,6 @@ The SQL script includes the following cleaning steps:
 5. Remove Duplicates (only to show skills but not a recommended step in real life scenarios)
 6. Delete Unused Columns
 
-## Contributions:
+## Contributions
 
 We welcome contributions to improve this project! If you have suggestions for enhancements or have found any issues, please create a pull request or open an issue on GitHub.
