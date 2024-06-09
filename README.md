@@ -8,17 +8,17 @@ Welcome to the Nashville Housing Data Cleanup repository! This project provides 
 
 The Nashville housing dataset includes information about properties in Nashville, such as:
 
-• Land Use	
-• Property Address	
-• Sale Date	
-• Sale Price
-• Owner Name	
-• Land Value	
-• Total Value	
-• Year Built	
-• Bedrooms	
-• Full Bath
-• Other relevant attributes
+1. Land Use	
+2. Property Address	
+3. Sale Date	
+4. Sale Price
+5. Owner Name	
+6. Land Value	
+7. Total Value	
+8. Year Built	
+9. Bedrooms	
+10. Full Bath
+11. Other relevant attributes
 
 The dataset can be obtained from various sources, but for the purpose of this project, please ensure your dataset is in a compatible format for the SQL script provided.
 
